@@ -29,7 +29,7 @@ ___
 * (for 26 letters and 27th for point-mark 28th for the space-mark and 29th for exclamation mart) we can see )) 
 
  
-Here you'll find two .php files: functions.php and hamlet-as-subsring.php. If you are patient your can find "to be" as substring (for power __)  
+Here you'll find two .php files: **functions.php** and **hamlet-as-subsring.php**. If you are patient you'll find "to be" as substring in the  12433 iteration.
 
-Why PHP? For  glory base_convert() function)))
-P.S. ** don't forget to change your max_execution_time to 1000!**
+_Why PHP_? Thanks to good function base_convert() :))  
+P.S. ** Please, do not forget to change in your php.ini **_max_execution_time_** to 5000.**
